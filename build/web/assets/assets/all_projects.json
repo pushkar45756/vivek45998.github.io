@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1223",
+    "project_name": "Build Ezi",
+    "project_status": "Paused"
+  },
+  {
+    "id": "1234",
+    "project_name": "Home Land",
+    "project_status": "Paused"
+  },
+  {
+    "id": "12334",
+    "project_name": "Forest Complex",
+    "project_status": "Completed"
+  },
+  {
+    "id": "123433",
+    "project_name": "Town Hall",
+    "project_status": "Resumed"
+  },
+  {
+    "id": "12114",
+    "project_name": "Meeting Hall",
+    "project_status": "Deleted"
+  },
+  {
+    "id": "123224",
+    "project_name": "Vr Mall",
+    "project_status": "Paused"
+  },
+  {
+    "id": "12314",
+    "project_name": "infoStride",
+    "project_status": "Completed"
+  },
+  {
+    "id": "123411",
+    "project_name": "Smart Data",
+    "project_status": "Archived"
+  },
+  {
+    "id": "123433",
+    "project_name": "InfoTech",
+    "project_status": "Completed"
+  },
+  {
+    "id": "121134",
+    "project_name": "Marriage Resorts",
+    "project_status": "Resumed"
+  },
+  {
+    "id": "123114",
+    "project_name": "Ivy",
+    "project_status": "Paused"
+  },
+  {
+    "id": "122134",
+    "project_name": "Fortis",
+    "project_status": "Paused"
+  },
+  {
+    "id": "123444",
+    "project_name": "Apollo",
+    "project_status": "Completed"
+  },
+  {
+    "id": "1223134",
+    "project_name": "Vardhaman",
+    "project_status": "Resumed"
+  },
+  {
+    "id": "1112314",
+    "project_name": "Vetted",
+    "project_status": "Paused"
+  }
+
+
+]

@@ -1,0 +1,298 @@
+[
+  {
+    "status": "success",
+    "code": 200,
+    "data": {
+      "id": 36,
+      "name": "notify",
+      "address": {
+        "name": "hgy",
+        "longitude": 31.44131,
+        "latitude": 32.1554
+      },
+      "client": {
+        "id": 2,
+        "first_name": "Client",
+        "last_name": "Sharma",
+        "phone": "9023139932",
+        "email": "client@yopmail.com",
+        "profile_picture": ""
+      },
+      "description": "fty",
+      "scope_of_work": [],
+      "created_date": "2023-02-27 13:38:58",
+      "last_updated": "2023-02-27T13:38:58.926813Z",
+      "worker": [],
+      "status": "in_progress",
+      "quotations": [],
+      "builder": {
+        "id": 12,
+        "first_name": "Anuj",
+        "last_name": "Sharma",
+        "phone": "",
+        "email": "anuj@yopmail.com",
+        "profile_picture": ""
+      }
+    },
+    "message": ""
+  },
+  {
+    "status": "success",
+    "code": 200,
+    "data": {
+      "id": 37,
+      "name": "infostride",
+      "address": {
+        "name": "hgy",
+        "longitude": 31.44131,
+        "latitude": 32.1554
+      },
+      "client": {
+        "id": 2,
+        "first_name": "Client",
+        "last_name": "Sharma",
+        "phone": "9023139932",
+        "email": "client@yopmail.com",
+        "profile_picture": ""
+      },
+      "description": "fty",
+      "scope_of_work": [],
+      "created_date": "2023-02-27 13:38:58",
+      "last_updated": "2023-02-27T13:38:58.926813Z",
+      "worker": [],
+      "status": "paused",
+      "quotations": [],
+      "builder": {
+        "id": 13,
+        "first_name": "Ram",
+        "last_name": "Charan",
+        "phone": "",
+        "email": "ram@yopmail.com",
+        "profile_picture": ""
+      }
+    },
+    "message": ""
+  },
+  {
+    "status": "success",
+    "code": 200,
+    "data": {
+      "id": 38,
+      "name": "c-dac",
+      "address": {
+        "name": "hgy",
+        "longitude": 31.44131,
+        "latitude": 32.1554
+      },
+      "client": {
+        "id": 2,
+        "first_name": "Client",
+        "last_name": "Sharma",
+        "phone": "9023139932",
+        "email": "client@yopmail.com",
+        "profile_picture": ""
+      },
+      "description": "fty",
+      "scope_of_work": [],
+      "created_date": "2023-02-27 13:38:58",
+      "last_updated": "2023-02-27T13:38:58.926813Z",
+      "worker": [],
+      "status": "paused",
+      "quotations": [],
+      "builder": {
+        "id": 14,
+        "first_name": "Vaishnavi",
+        "last_name": "Dulari",
+        "phone": "",
+        "email": "dulari@yopmail.com",
+        "profile_picture": ""
+      }
+    },
+    "message": ""
+  },
+  {
+    "status": "success",
+    "code": 200,
+    "data": {
+      "id": 39,
+      "name": "oracle",
+      "address": {
+        "name": "hgy",
+        "longitude": 31.44131,
+        "latitude": 32.1554
+      },
+      "client": {
+        "id": 2,
+        "first_name": "Client",
+        "last_name": "Sharma",
+        "phone": "9023139932",
+        "email": "client@yopmail.com",
+        "profile_picture": ""
+      },
+      "description": "fty",
+      "scope_of_work": [],
+      "created_date": "2023-02-27 13:38:58",
+      "last_updated": "2023-02-27T13:38:58.926813Z",
+      "worker": [],
+      "status": "resume",
+      "quotations": [],
+      "builder": {
+        "id": 15,
+        "first_name": "Jay",
+        "last_name": "Nag",
+        "phone": "",
+        "email": "jay@yopmail.com",
+        "profile_picture": ""
+      }
+    },
+    "message": ""
+  },
+  {
+    "status": "success",
+    "code": 200,
+    "data": {
+      "id": 40,
+      "name": "notify",
+      "address": {
+        "name": "hgy",
+        "longitude": 31.44131,
+        "latitude": 32.1554
+      },
+      "client": {
+        "id": 2,
+        "first_name": "Client",
+        "last_name": "Sharma",
+        "phone": "9023139932",
+        "email": "client@yopmail.com",
+        "profile_picture": ""
+      },
+      "description": "fty",
+      "scope_of_work": [],
+      "created_date": "2023-02-27 13:38:58",
+      "last_updated": "2023-02-27T13:38:58.926813Z",
+      "worker": [],
+      "status": "resume",
+      "quotations": [],
+      "builder": {
+        "id": 21,
+        "first_name": "Aryan",
+        "last_name": "Yadav",
+        "phone": "7894563115",
+        "email": "aryan@yopmail.com",
+        "profile_picture": ""
+      }
+    },
+    "message": ""
+  },
+  {
+    "status": "success",
+    "code": 200,
+    "data": {
+      "id": 41,
+      "name": "ivy-hospital",
+      "address": {
+        "name": "hgy",
+        "longitude": 31.44131,
+        "latitude": 32.1554
+      },
+      "client": {
+        "id": 2,
+        "first_name": "Client",
+        "last_name": "Sharma",
+        "phone": "9023139932",
+        "email": "client@yopmail.com",
+        "profile_picture": ""
+      },
+      "description": "fty",
+      "scope_of_work": [],
+      "created_date": "2023-02-27 13:38:58",
+      "last_updated": "2023-02-27T13:38:58.926813Z",
+      "worker": [],
+      "status": "paused",
+      "quotations": [],
+      "builder": {
+        "id": 22,
+        "first_name": "Deepak",
+        "last_name": "Aheja",
+        "phone": "7894561121",
+        "email": "deepak@yopmail.com",
+        "profile_picture": ""
+      }
+    },
+    "message": ""
+  },
+  {
+    "status": "success",
+    "code": 200,
+    "data": {
+      "id": 43,
+      "name": "westin",
+      "address": {
+        "name": "hgy",
+        "longitude": 31.44131,
+        "latitude": 32.1554
+      },
+      "client": {
+        "id": 2,
+        "first_name": "Client",
+        "last_name": "Sharma",
+        "phone": "9023139932",
+        "email": "client@yopmail.com",
+        "profile_picture": ""
+      },
+      "description": "fty",
+      "scope_of_work": [],
+      "created_date": "2023-02-27 13:38:58",
+      "last_updated": "2023-02-27T13:38:58.926813Z",
+      "worker": [],
+      "status": "archive",
+      "quotations": [],
+      "builder": {
+        "id": 23,
+        "first_name": "Vishal",
+        "last_name": "Keshari",
+        "phone": "5646456564",
+        "email": "vishal@yopmail.com",
+        "profile_picture": ""
+      }
+    },
+    "message": ""
+  },
+  {
+    "status": "success",
+    "code": 200,
+    "data": {
+      "id": 44,
+      "name": "oracle",
+      "address": {
+        "name": "hgy",
+        "longitude": 31.44131,
+        "latitude": 32.1554
+      },
+      "client": {
+        "id": 2,
+        "first_name": "Client",
+        "last_name": "Sharma",
+        "phone": "9023139932",
+        "email": "client@yopmail.com",
+        "profile_picture": ""
+      },
+      "description": "fty",
+      "scope_of_work": [],
+      "created_date": "2023-02-27 13:38:58",
+      "last_updated": "2023-02-27T13:38:58.926813Z",
+      "worker": [],
+      "status": "in_progress",
+      "quotations": [],
+      "builder": {
+        "id": 24,
+        "first_name": "Rahul",
+        "last_name": "Sharma",
+        "phone": "455554545454",
+        "email": "rahul@yopmail.com",
+        "profile_picture": ""
+      }
+    },
+    "message": ""
+  }
+]
